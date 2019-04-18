@@ -1,0 +1,9 @@
+{
+    /* (c) 2018-2019, Serge Tkachuk, https://github.com/fly304625  */
+    /* config file. codepage - UTF8*/
+
+    "localport": "80", /* port */
+    "hostname": "10.10.2.151", /* ip or host */
+    "storage": "C:\Users\Admin\Downloads\backup\file\public", /* local path to files */
+    "logfile": "C:\Users\Admin\Downloads\backup\file\log.txt" /* path to log file */
+}
